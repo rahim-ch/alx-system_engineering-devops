@@ -1,0 +1,2 @@
+#!/bin/bash
+cat input_file.txt | ./decode_acrostic.sh
